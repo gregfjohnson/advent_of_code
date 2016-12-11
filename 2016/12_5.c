@@ -1,0 +1,4 @@
+#include <mhash.h>
+
+main() {
+}
